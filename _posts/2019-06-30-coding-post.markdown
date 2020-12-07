@@ -6,9 +6,9 @@ date: 2020-12-07
 categories:
 ---
 In the regression setting, the standard linear model
-{% raw %}
+
 $$\bY = \beta_0 + \beta_1\bX_1 + \ldots + \beta_p\bX_p + \epsilon$$
-{% endraw %}
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
 ```javascript

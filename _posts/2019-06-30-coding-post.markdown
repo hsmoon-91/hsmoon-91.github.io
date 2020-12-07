@@ -1,20 +1,22 @@
 ---
 layout: post
-title:  "Coding Post"
+title:  "test"
 description: An example post which shows code rendering.
-date:   2019-05-23 21:03:36 +0530
-categories: Javascript NodeJS
+date: 2020-12-07
+categories:
 ---
+In the regression setting, the standard linear model
+$\bY = \beta_0 + \beta_1\bX_1 + \ldots + \beta_p\bX_p + \epsilon$
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
 ```javascript
 const express = require('express')
 const app = express()
- 
+
 app.get('/', function (req, res) {
   res.send('Hello World')
 })
- 
+
 app.listen(3000)
 ```
 

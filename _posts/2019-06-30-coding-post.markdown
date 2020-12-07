@@ -8,8 +8,9 @@ use_math: true
 ---
 In the regression setting, the standard linear model
 
-$$ \bold{Y} = \beta_0 + \beta_1\bold{X_1} + \ldots + \beta_p\bold{X_p} + \bold{\epsilon} $$
-
+$$
+\bold{Y} = \beta_0 + \beta_1\bold{X_1} + \ldots + \beta_p\bold{X_p} + \bold{\epsilon}
+$$
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
 ```javascript

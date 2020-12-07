@@ -3,12 +3,15 @@
 <head>
 	{%- include head.html -%}
 </head>
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
 <body>
 	<header class="texture-{{ site.texture.style }}">
 		<div class="container">
 			{%- include nav.html -%}
 		</div>
-		{%- include page_header.html -%}	
+		{%- include page_header.html -%}
 	</header>
 	<main>
 		<div class="container">

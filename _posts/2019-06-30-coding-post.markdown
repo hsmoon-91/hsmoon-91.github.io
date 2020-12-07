@@ -3,7 +3,6 @@ layout: post
 title:  "test"
 description: An example post which shows code rendering.
 date: 2020-12-07
-use_math: true
 categories:
 ---
 In the regression setting, the standard linear model

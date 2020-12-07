@@ -7,7 +7,7 @@ categories:
 ---
 In the regression setting, the standard linear model
 
-$ \begin{align} \bold{Y} = \beta_0 + \beta_1\bold{X_1} + \ldots + \beta_p\bold{X_p} + \bold{\epsilon} \end{align} $
+$$ \begin{align} \bold{Y} = \beta_0 + \beta_1\bold{X_1} + \ldots + \beta_p\bold{X_p} + \bold{\epsilon} \end{align} $$
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 

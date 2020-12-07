@@ -22,12 +22,7 @@ texture:
   showNav: false
   showPicker: true
 
-  # Conversion
-  markdown: kramdown
-  highlighter: rouge
-  lsi: false
-  excerpt_separator: "\n\n"
-  incremental: false
+
 
   # generate social links in footer
   #social_links:

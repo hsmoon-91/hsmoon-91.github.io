@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ggplot2 package"
-date:  date
+date: 2021-01-05
 ---
 
 ```R
